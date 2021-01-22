@@ -36,7 +36,7 @@
 
   <project name="poky" path="sources/poky" remote="yocto" revision="cba967414370e195d109353e51510bd829aa86c3"/>
 
-  <project remote="iwave" revision="f02fc0543f914f4fa27598a6033058a35a5225cd" name="imx8mm_8mn" path="sources/imx8mm_8mn">
+  <project remote="iwave" revision="27f7a8b777f21ae1e8fa23e83066188891d740cd" name="imx8mm_8mn" path="sources/imx8mm_8mn">
     <linkfile dest="imx-setup-release.sh" src="tools/imx-setup-release.sh"/>
     <linkfile dest="README-IMXBSP" src="README"/>
   </project>
